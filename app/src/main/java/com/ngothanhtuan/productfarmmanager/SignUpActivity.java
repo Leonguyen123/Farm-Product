@@ -79,6 +79,8 @@ public class SignUpActivity extends AppCompatActivity {
                     Toast.makeText(SignUpActivity.this, "Incorrect", Toast.LENGTH_SHORT).show();
                     Animation shake = AnimationUtils.loadAnimation(SignUpActivity.this, R.anim.shake);
                     edtPassAgain.startAnimation(shake);
+                    alo
+                       
                     return false;
                 }
             }
