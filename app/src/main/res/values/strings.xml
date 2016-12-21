@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Product Farm Manager</string>
-    <string name="back"><![CDATA[<]]></string>
+    <string name="back">back</string>
     <string name="Paagain">Again</string>
     <string name="email">Email</string>
     <string name="pass">Pass</string>
